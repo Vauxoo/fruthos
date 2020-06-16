@@ -11,3 +11,6 @@
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
 	branch = 12.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
